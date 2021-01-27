@@ -15,16 +15,6 @@
 - 👨‍💻 All of my projects are available at [https://mahad.netlify.app/](https://mahad.netlify.app/) 
 - 📝 I regularly write articles on [https://mahad-blog.netlify.app/](https://mahad-blog.netlify.app/) 
 - 📄 Know about my experiences [https://mahad.netlify.app/assets/cv_mahad.pdf](https://mahad.netlify.app/assets/cv_mahad.pdf)
--->
-
-- 🌱 I’m currently learning **go.** 
-
-- 💬 Ask me about **react, jquery, sass ...** 
-
-- 📫 How to reach me **mahad.codes@protonmail.com** 
-
-- ⚡ Fun fact **I enjoy reading philosophy books.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/mahad mohamood" target="blank"
@@ -36,6 +26,15 @@
 			width="40"
 	/></a>
 </p>
+-->
+
+- 🌱 I’m currently learning **go.** 
+
+- 💬 Ask me about **react, jquery, sass ...** 
+
+- 📫 How to reach me **mahad.codes@protonmail.com** 
+
+- ⚡ Fun fact **I enjoy reading philosophy books.**
 
 <h3 align="left">Languages and Tools:</h3>
 
