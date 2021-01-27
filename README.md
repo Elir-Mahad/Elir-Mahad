@@ -3,14 +3,13 @@
 <h3 align="center">A frontend developer from Toronto, Canada.</h3>
 
 
+<!--
 <p align="left">
 	<img
 		src="https://komarev.com/ghpvc/?username=elir-mahad&label=Profile%20views&color=0e75b6&style=flat"
 		alt="elir-mahad"
 	/>
 </p>
-
-<!--
 - 🔭 I’m currently working on **some secret projects** 
 - 👯 I’m looking to collaborate on **projects that use react for the front-end and mern for the back-end.** 
 - 👨‍💻 All of my projects are available at [https://mahad.netlify.app/](https://mahad.netlify.app/) 
