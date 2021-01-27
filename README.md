@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋🏿  I'm Elir Mahad</h1>
 
-<h1 align="center">Hi 👋, I'm Elir Mahad</h1>
-
-<h3 align="center">A passionate frontend developer from Toronto, Canada.</h3>
+<h3 align="center">A frontend developer from Toronto, Canada.</h3>
 
 
 <p align="left">
@@ -41,6 +39,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 	<a href="https://getbootstrap.com" target="_blank">
 		<img
