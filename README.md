@@ -28,7 +28,7 @@
 </p>
 -->
 
-- 🌱 I’m currently learning **go.** 
+- 🌱 I’m currently learning **React Native** and **Go** 
 
 - 💬 Ask me about **react, jquery, sass ...** 
 
