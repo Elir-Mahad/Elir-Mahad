@@ -28,13 +28,13 @@
 </p>
 -->
 
-- 🌱 I’m currently learning **React Native**, **Go**, **PWA's** 
+- 🌱 I’m currently learning **backend technologies**
 
-- 💬 Ask me about **react, jquery, sass ...** 
+- 💬 Ask me about **html, css, sass, javascript, react, jquery, PWA's, react native ...** 
 
 - 📫 How to reach me **mahad.codes@protonmail.com** 
 
-- ⚡ Fun fact **I enjoy reading philosophy books.**
+- ⚡ Cool fact **I enjoy reading philosophy books.**
 
 <h3 align="left">Languages and Tools:</h3>
 
