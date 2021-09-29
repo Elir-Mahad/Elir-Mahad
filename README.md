@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏿  I'm Elir Mahad</h1>
+<h1 align="center">Hi 👋🏿  I'm Mahad Mohamood</h1>
 
 <h3 align="center">A frontend developer from Toronto, Canada.</h3>
 
