@@ -6,22 +6,14 @@
 I am a front end developer based in Toronto, Canada. I’m currently working with `React`, `Next.js`, and `monogdb`. I'm also learning `python` for data science. Additionally, I also write ```blogs``` during my free time. I write about ```front-end technologies```, ```python``` and ```tech theory``` at large. You can reach me at `mahad.codes@protonmail.com`
 
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elir-Mahad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=elir-mahad&hide=prs&show_icons=true&theme=highcontrast)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir-mahad&langs_count=2&show_icons=true&theme=highcontrast)
 
-<!-- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elir-Mahad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahad's GitHub Stats" />
-</a> -->
 
-<!--
+<!-- 
 <p align="left">
-	<img
-		src="https://komarev.com/ghpvc/?username=elir-mahad&label=Profile%20views&color=0e75b6&style=flat"
-		alt="elir-mahad"
-	/>
+<img src="https://komarev.com/ghpvc/?username=elir-mahad&label=Profile%20views&color=0e75b6&style=flat" alt="elir-mahad" />
 </p>
-
 - 🔭 I’m currently working on **some secret projects** 
 - 👯 I’m looking to collaborate on **projects that use react for the front-end and mern for the back-end.** 
 - 👨‍💻 All of my projects are available at [https://mahad.netlify.app/](https://mahad.netlify.app/) 
@@ -38,19 +30,16 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 			width="40"
 	/></a>
 </p>
--->
 
-<!-- - 🌱 I’m currently learning **backend technologies**
+ 🌱 I’m currently learning **backend technologies**
 
 - 💬 Ask me about **html, css, sass, javascript, react, jquery, PWA's, react native ...** 
 
 - 📫 How to reach me **mahad.codes@protonmail.com** 
 
 - ⚡ Cool fact **I enjoy reading philosophy books.**
- -->
- 
- 
-<!-- <h3 align="left">Languages and Tools:</h3>
+
+ <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank">
@@ -160,18 +149,14 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 			height="40"
 		/>
 	</a>
-</p> -->
-
-<!-- <p>
+</p>
+ <p>
 	<img
 		align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=elir-mahad&show_icons=true&locale=en&layout=compact"
 		alt="elir-mahad"
 	/>
-</p> -->
-
-
-<!-- 
+</p>
 <p>
 	&nbsp;<img
 		align="center"
@@ -179,13 +164,12 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 		alt="elir-mahad"
 	/>
 </p>
- -->
  
- 
-<!-- <p>
+<p>
 	<img
 		align="center"
 		src="https://github-readme-streak-stats.herokuapp.com/?user=elir-mahad&"
 		alt="elir-mahad"
 	/>
-</p> -->
+</p>
+ -->
