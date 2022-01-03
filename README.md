@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋🏿  I'm Mahad Mohamood</h1>
+[comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
+  
+<h1> Greetings 👋🏿  </h1>
 
-<h3 align="center">A frontend developer from Toronto, Canada.</h3>
+<p align="center">
 
+I am a front end developer based in Toronto, Canada. I’m currently working with `React`, `Next.js`, and `monogdb`. I'm also learning `python` for data science. Additionally, I also write ```blogs``` during my free time. I write about ```front-end technologies```, ```python``` and ```tech theory``` at large. You can reach me at `mahad.codes@protonmail.com`
+
+</p>
 
 <!--
 <p align="left">
@@ -28,15 +33,17 @@
 </p>
 -->
 
-- 🌱 I’m currently learning **backend technologies**
+<!-- - 🌱 I’m currently learning **backend technologies**
 
 - 💬 Ask me about **html, css, sass, javascript, react, jquery, PWA's, react native ...** 
 
 - 📫 How to reach me **mahad.codes@protonmail.com** 
 
 - ⚡ Cool fact **I enjoy reading philosophy books.**
-
-<h3 align="left">Languages and Tools:</h3>
+ -->
+ 
+ 
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank">
@@ -146,7 +153,7 @@
 			height="40"
 		/>
 	</a>
-</p>
+</p> -->
 
 <p>
 	<img
@@ -156,18 +163,18 @@
 	/>
 </p>
 
-<p>
+<!-- <p>
 	&nbsp;<img
 		align="center"
 		src="https://github-readme-stats.vercel.app/api?username=elir-mahad&show_icons=true&locale=en"
 		alt="elir-mahad"
 	/>
 </p>
-
-<p>
+ -->
+<!-- <p>
 	<img
 		align="center"
 		src="https://github-readme-streak-stats.herokuapp.com/?user=elir-mahad&"
 		alt="elir-mahad"
 	/>
-</p>
+</p> -->
