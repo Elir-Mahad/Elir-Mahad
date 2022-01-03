@@ -2,11 +2,17 @@
   
 <h1> Greetings 👋🏿  </h1>
 
-<p align="center">
 
 I am a front end developer based in Toronto, Canada. I’m currently working with `React`, `Next.js`, and `monogdb`. I'm also learning `python` for data science. Additionally, I also write ```blogs``` during my free time. I write about ```front-end technologies```, ```python``` and ```tech theory``` at large. You can reach me at `mahad.codes@protonmail.com`
 
-</p>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elir-Mahad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<!-- <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elir-Mahad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahad's GitHub Stats" />
+</a> -->
 
 <!--
 <p align="left">
@@ -15,6 +21,7 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 		alt="elir-mahad"
 	/>
 </p>
+
 - 🔭 I’m currently working on **some secret projects** 
 - 👯 I’m looking to collaborate on **projects that use react for the front-end and mern for the back-end.** 
 - 👨‍💻 All of my projects are available at [https://mahad.netlify.app/](https://mahad.netlify.app/) 
@@ -155,15 +162,17 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 	</a>
 </p> -->
 
-<p>
+<!-- <p>
 	<img
 		align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=elir-mahad&show_icons=true&locale=en&layout=compact"
 		alt="elir-mahad"
 	/>
-</p>
+</p> -->
 
-<!-- <p>
+
+<!-- 
+<p>
 	&nbsp;<img
 		align="center"
 		src="https://github-readme-stats.vercel.app/api?username=elir-mahad&show_icons=true&locale=en"
@@ -171,6 +180,8 @@ I am a front end developer based in Toronto, Canada. I’m currently working wit
 	/>
 </p>
  -->
+ 
+ 
 <!-- <p>
 	<img
 		align="center"
