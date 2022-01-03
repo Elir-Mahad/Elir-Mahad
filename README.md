@@ -3,7 +3,7 @@
 <h1> Greetings 👋🏿  </h1>
 
 
-I am a front end developer based in Toronto, Canada. I’m currently working with `React`, `Next.js`, and `monogdb`. I'm also learning `python` for data science. Additionally, I also write ```blogs``` during my free time. I write about ```front-end technologies```, ```python``` and ```tech theory``` at large. You can reach me at `mahad.codes@protonmail.com`
+I am a front end developer based in Toronto, Canada. I’m currently working with `React`, `Next.js`, and `monogdb`. I'm also learning `python` for data science. Additionally, I also write ```blogs``` during my free time. I write about ```front-end technologies```, ```python``` and ```tech theory```. You can reach me at `mahad.codes@protonmail.com`
 
 
 ![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=elir-mahad&hide=prs&show_icons=true&theme=highcontrast)	
