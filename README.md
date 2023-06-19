@@ -3,7 +3,7 @@
 <h1> Greetings 👋🏿  </h1>
 
 
-I am a self-taught developer based in Toronto, Canada. 
+I am a software developer based in Toronto, Canada. 
 
 I’m currently working with `React` & `Next.js` for web development and `python` for data science. 
 
