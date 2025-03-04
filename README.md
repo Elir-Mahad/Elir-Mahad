@@ -5,10 +5,6 @@
 
 I am a software developer based in Toronto, Canada. 
 
-I’m currently working with `React` & `Next.js` for web development and `python` for data science. 
-
-You can reach me at `mahad.codes@protonmail.com`
-
 
 <!-- ![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=elir-mahad&hide=prs,contribs&show_icons=true&theme=tokyonight)	 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elir-mahad&langs_count=2&show_icons=true&theme=tokyonight) -->
